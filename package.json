@@ -1,0 +1,27 @@
+{
+  "name": "shenzhi-knowledge-base-v1",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.2",
+    "element-plus": "^2.14.1",
+    "pinia": "^3.0.4",
+    "relation-graph": "^2.1.42",
+    "relation-graph-vue3": "^2.2.11",
+    "vue": "^3.5.18",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "@vitejs/plugin-vue": "^5.2.4",
+    "typescript": "^5.8.3",
+    "vite": "^5.4.19",
+    "vue-tsc": "^2.2.12"
+  }
+}

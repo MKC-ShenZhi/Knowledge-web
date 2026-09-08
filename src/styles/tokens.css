@@ -1,0 +1,81 @@
+/* ============================================================
+ * 设计 tokens —— 统一颜色 / 间距 / 圆角 / 阴影 / 字体
+ * 各模块直接引用这些变量，避免散落的硬编码值
+ * 与 style.css 的 :root 变量互补，逐步收敛
+ * ============================================================ */
+
+:root {
+  --sz-primary: #002fa7;
+  --sz-primary-hover: #00258a;
+  --sz-primary-soft: #e9efff;
+  --sz-primary-faint: #f4f6ff;
+  --sz-navy: #13233f;
+  --sz-text: #18243a;
+  --sz-text-secondary: #58657a;
+  --sz-text-muted: #8a94a6;
+  --sz-bg: #f7f8fc;
+  --sz-sidebar: #eef1f8;
+  --sz-card: #ffffff;
+  --sz-line: #e5e9f1;
+  --sz-success: #0f9f76;
+  --sz-warning: #e49b18;
+  --sz-danger: #dc5a5a;
+  --sz-radius: 14px;
+  --sz-shadow: 0 8px 30px rgba(31, 47, 83, .06);
+  /* 主色 */
+  --kg-primary: #002fa7;
+  --kg-primary-light: #3b82f6;
+
+  /* 节点类型色（与 services/kg.ts KG_NODE_COLORS 对齐） */
+  --node-paper: #3b82f6;
+  --node-author: #10b981;
+  --node-venue: #ef4444;
+  --node-conf-edition: #f87171;
+  --node-keyword: #8b5cf6;
+  --node-subject: #8b5cf6;
+  --node-year: #6b7280;
+
+  /* 文本 */
+  --text-primary: #1e293b;
+  --text-secondary: #475569;
+  --text-tertiary: #64748b;
+  --text-placeholder: #909399;
+
+  /* 背景 */
+  --bg-page: #f5f5f5;
+  --bg-card: #ffffff;
+  --bg-hover: #f8fafc;
+  --bg-overlay: rgba(255, 255, 255, 0.5);
+
+  /* 边框 */
+  --border-base: #e2e8f0;
+  --border-light: #e8e8e8;
+  --border-lighter: rgba(226, 232, 240, 0.6);
+
+  /* 间距（4px 基线） */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+
+  /* 圆角 */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+
+  /* 阴影 */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+
+  /* 字体 */
+  --font-sans: "PingFang SC", "Microsoft YaHei", "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+
+  /* 过渡 */
+  --transition-base: all 0.2s ease;
+  --transition-fast: all 0.15s ease;
+}

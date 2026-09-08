@@ -1,0 +1,4819 @@
+{
+  "lines": [
+    {
+      "from": "paper_oa_paper:kapon_mas_multi_view_ancestral_sampling_for_3d_m:f26fa6d9eb3f",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "MAS: Multi-view Ancestral Sampling for 3D Motion Generation Using 2D Diffusion",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:zhang_degrees_of_freedom_matter_inferring_dynami:0d93f3e9d5ab",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:peng_a_dual_augmentor_framework_for_domain_gener:611e9a72a787",
+      "to": "paper_Hard_No_Box_Adversarial_Attack_on_Skeleton_Based_Human_Actio",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation",
+        "toText": "Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:zeng_paint3d_paint_anything_3d_with_lighting_les:1c5d191cf9d9",
+      "to": "paper_Texture_Generation_on_3D_Meshes_with_Point_UV_Diffusion",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models",
+        "toText": "Texture Generation on 3D Meshes with Point-UV Diffusion",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:liu_diff_plugin_revitalizing_details_for_diffusi:fb40faaf0aa1",
+      "to": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks",
+        "toText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:liu_texoct_generating_textures_of_3d_models_with:2efa01e51a6c",
+      "to": "paper_Texture_Generation_on_3D_Meshes_with_Point_UV_Diffusion",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TexOct: Generating Textures of 3D Models with Octree-based Diffusion",
+        "toText": "Texture Generation on 3D Meshes with Point-UV Diffusion",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:tang_make_it_vivid_dressing_your_animatable_bipe:e3442d63d125",
+      "to": "paper_Texture_Generation_on_3D_Meshes_with_Point_UV_Diffusion",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Make-It-Vivid: Dressing Your Animatable Biped Cartoon Characters from Text",
+        "toText": "Texture Generation on 3D Meshes with Point-UV Diffusion",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:wang_diffperformer_iterative_learning_of_consist:5132879a9b70",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:li_sat2scene_3d_urban_scene_generation_from_sate:6526fb5d6d04",
+      "to": "paper_Texture_Generation_on_3D_Meshes_with_Point_UV_Diffusion",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion",
+        "toText": "Texture Generation on 3D Meshes with Point-UV Diffusion",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:mitchel_single_mesh_diffusion_models_with_field_:9f88950261aa",
+      "to": "paper_Texture_Generation_on_3D_Meshes_with_Point_UV_Diffusion",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Single Mesh Diffusion Models with Field Latents for Texture Generation",
+        "toText": "Texture Generation on 3D Meshes with Point-UV Diffusion",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:seo_generative_unlearning_for_any_identity_cvpr2:a3ce184ea4bb",
+      "to": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Generative Unlearning for Any Identity",
+        "toText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:wang_vision_and_language_navigation_via_causal_l:92330bab0190",
+      "to": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Vision-and-Language Navigation via Causal Learning",
+        "toText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:yin_is_fusion_instance_scene_collaborative_fusio:77840be2d8ac",
+      "to": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection",
+        "toText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:li_light_the_night_a_multi_condition_diffusion_f:635a2a91be5b",
+      "to": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving",
+        "toText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:li_diffloc_diffusion_model_for_outdoor_lidar_loc:629d13d2c75a",
+      "to": "paper_Stochastic_Segmentation_with_Conditional_Categorical_Diffusi",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "DiffLoc: Diffusion Model for Outdoor LiDAR Localization",
+        "toText": "Stochastic Segmentation with Conditional Categorical Diffusion Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:liu_volumetric_environment_representation_for_vi:42dc02ea9542",
+      "to": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Volumetric Environment Representation for Vision-Language Navigation",
+        "toText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:zhang_revisiting_the_domain_shift_and_sample_unc:e91459d03f26",
+      "to": "paper_Learning_in_Imperfect_Environment__Multi_Label_Classificatio",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer",
+        "toText": "Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:fan_evidential_active_recognition_intelligent_an:e5c0dfb36f3f",
+      "to": "paper_Flexible_Visual_Recognition_by_Evidential_Modeling_of_Confus",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception",
+        "toText": "Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:xu_multi_attribute_interactions_matter_for_3d_vi:c077d731164b",
+      "to": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Multi-Attribute Interactions Matter for 3D Visual Grounding",
+        "toText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:li_matching_anything_by_segmenting_anything_cvpr:fd76cfe77e57",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Matching Anything by Segmenting Anything",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:le_moing_dense_optical_tracking_connecting_the_d:707fd7aa57f2",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Dense Optical Tracking: Connecting the Dots",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:qin_towards_generalizable_multi_object_tracking_:6728e433ae08",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Towards Generalizable Multi-Object Tracking",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:cho_flowtrack_revisiting_optical_flow_for_long_r:a00484439859",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:zheng_nettrack_tracking_highly_dynamic_objects_w:cf8cc206a58c",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "NetTrack: Tracking Highly Dynamic Objects with a Net",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:chen_leap_vo_long_term_effective_any_point_track:aa6e241c5d26",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:xiao_spatialtracker_tracking_any_2d_pixels_in_3d:63a692529372",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "SpatialTracker: Tracking Any 2D Pixels in 3D Space",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:sun_3dgstream_on_the_fly_training_of_3d_gaussian:f33f4487f25b",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:sun_tuttenet_injective_3d_deformations_by_compos:aa1ca1fcae62",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:hedlin_unsupervised_keypoints_from_pretrained_di:bace46b6ea8a",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Unsupervised Keypoints from Pretrained Diffusion Models",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:pan_diffsci_zero_shot_snapshot_compressive_imagi:69e4b124008b",
+      "to": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model",
+        "toText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:sundar_generalized_event_cameras_cvpr2024_cvf:ad040adc463c",
+      "to": "paper_Passive_Ultra_Wideband_Single_Photon_Imaging",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Generalized Event Cameras",
+        "toText": "Passive Ultra-Wideband Single-Photon Imaging",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:chan_resolution_limit_of_single_photon_lidar_cvp:36d40b30ec96",
+      "to": "paper_Passive_Ultra_Wideband_Single_Photon_Imaging",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Resolution Limit of Single-Photon LiDAR",
+        "toText": "Passive Ultra-Wideband Single-Photon Imaging",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:lv_fourier_priors_guided_diffusion_for_zero_shot:0b753139808b",
+      "to": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring",
+        "toText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:zhang_diffusion_based_blind_text_image_super_res:519f907cc8a5",
+      "to": "paper_Stochastic_Segmentation_with_Conditional_Categorical_Diffusi",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Diffusion-based Blind Text Image Super-Resolution",
+        "toText": "Stochastic Segmentation with Conditional Categorical Diffusion Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:wang_zero_reference_low_light_enhancement_via_ph:252900e5208e",
+      "to": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Zero-Reference Low-Light Enhancement via Physical Quadruple Priors",
+        "toText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:yang_a_dynamic_kernel_prior_model_for_unsupervis:41e2302c58f5",
+      "to": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution",
+        "toText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:zhang_mrfs_mutually_reinforcing_image_fusion_and:ccbe4bccfaeb",
+      "to": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "MRFS: Mutually Reinforcing Image Fusion and Segmentation",
+        "toText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:chen_clip_driven_open_vocabulary_3d_scene_graph_:d880f914ba18",
+      "to": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning",
+        "toText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:tang_discrete_to_continuous_generating_smooth_tr:45213c56f427",
+      "to": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations",
+        "toText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:wang_tamt_temporal_aware_model_tuning_for_cross_:f7dcacce8ec0",
+      "to": "paper_Towards_Better_Robustness_against_Common_Corruptions_for_Uns",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition",
+        "toText": "Towards Better Robustness against Common Corruptions for Unsupervised Domain Adaptation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:wu_4d_fly_fast_4d_reconstruction_from_a_single_m:c97e798adcc3",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "4D-Fly: Fast 4D Reconstruction from a Single Monocular Video",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:zhang_carplanner_consistent_auto_regressive_traj:544fe5d62568",
+      "to": "paper_GameFormer__Game_theoretic_Modeling_and_Learning_of_Transfor",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-Scale Reinforcement Learning in Autonomous Driving",
+        "toText": "GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:dai_noisectrl_a_sampling_algorithm_agnostic_cond:d2588ae81c43",
+      "to": "paper_Adding_Conditional_Control_to_Text_to_Image_Diffusion_Models",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "NoiseCtrl: A Sampling-Algorithm-Agnostic Conditional Generation Method for Diffusion Models",
+        "toText": "Adding Conditional Control to Text-to-Image Diffusion Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:cui_forensics_adapter_adapting_clip_for_generali:48d8bc88bcb4",
+      "to": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Forensics Adapter: Adapting CLIP for Generalizable Face Forgery Detection",
+        "toText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:han_towards_more_general_video_based_deepfake_de:dae0e7a53e8e",
+      "to": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Towards More General Video-based Deepfake Detection through Facial Component Guided Adaptation for Foundation Model",
+        "toText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:chen_diffvsgg_diffusion_driven_online_video_scen:1a85eb0e8de1",
+      "to": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "DiffVsgg: Diffusion-Driven Online Video Scene Graph Generation",
+        "toText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Stochastic_Segmentation_with_Conditional_Categorical_Diffusi",
+      "to": "paper_oa_paper:lugmayr_repaint_inpainting_using_denoising_diffu:082324c70c4b",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Stochastic Segmentation with Conditional Categorical Diffusion Models",
+        "toText": "RePaint: Inpainting Using Denoising Diffusion Probabilistic Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Stochastic_Segmentation_with_Conditional_Categorical_Diffusi",
+      "to": "paper_oa_paper:li_deep_hierarchical_semantic_segmentation_cvpr2:18d908d92f4d",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Stochastic Segmentation with Conditional Categorical Diffusion Models",
+        "toText": "Deep Hierarchical Semantic Segmentation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Stochastic_Segmentation_with_Conditional_Categorical_Diffusi",
+      "to": "paper_oa_paper:gu_multi_scale_high_resolution_vision_transforme:bafbe783eff0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Stochastic Segmentation with Conditional Categorical Diffusion Models",
+        "toText": "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Stochastic_Segmentation_with_Conditional_Categorical_Diffusi",
+      "to": "paper_oa_paper:zhang_semantic_segmentation_by_early_region_prox:e519a686ebec",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Stochastic Segmentation with Conditional Categorical Diffusion Models",
+        "toText": "Semantic Segmentation by Early Region Proxy",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Learning_in_Imperfect_Environment__Multi_Label_Classificatio",
+      "to": "paper_oa_paper:guo_long_tailed_multi_label_visual_recognition_b:5bfa8a8a1352",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels",
+        "toText": "Long-Tailed Multi-Label Visual Recognition by Collaborative Training on Uniform and Re-Balanced Samplings",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Learning_in_Imperfect_Environment__Multi_Label_Classificatio",
+      "to": "paper_oa_paper:ben_baruch_multi_label_classification_with_parti:7a831f590ad9",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels",
+        "toText": "Multi-Label Classification With Partial Annotations Using Class-Aware Selective Loss",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Learning_in_Imperfect_Environment__Multi_Label_Classificatio",
+      "to": "paper_oa_paper:20243_aaai:9acb08f26d91",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels",
+        "toText": "MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-Based Image Captioning",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Learning_in_Imperfect_Environment__Multi_Label_Classificatio",
+      "to": "paper_oa_paper:zhang_boostmis_boosting_medical_image_semi_super:ceb90563a8d3",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels",
+        "toText": "BoostMIS: Boosting Medical Image Semi-Supervised Learning With Adaptive Pseudo Labeling and Informative Active Annotation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Learning_in_Imperfect_Environment__Multi_Label_Classificatio",
+      "to": "paper_oa_paper:li_gradient_regulated_meta_prompt_learning_for_g:d346429c661f",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Learning in Imperfect Environment: Multi-Label Classification with Long-Tailed Distribution and Partial Labels",
+        "toText": "Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Flexible_Visual_Recognition_by_Evidential_Modeling_of_Confus",
+      "to": "paper_oa_paper:wang_vim_out_of_distribution_with_virtual_logit_:11b3701587f3",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Flexible Visual Recognition by Evidential Modeling of Confusion and Ignorance",
+        "toText": "ViM: Out-of-Distribution With Virtual-Logit Matching",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GameFormer__Game_theoretic_Modeling_and_Learning_of_Transfor",
+      "to": "paper_oa_paper:zhou_hivt_hierarchical_vector_transformer_for_mu:f6eee56cfe22",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving",
+        "toText": "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GameFormer__Game_theoretic_Modeling_and_Learning_of_Transfor",
+      "to": "paper_oa_paper:chen_scept_scene_consistent_policy_based_traject:e3501ab90b81",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving",
+        "toText": "ScePT: Scene-Consistent, Policy-Based Trajectory Predictions for Planning\",\"ScePT: Scene-consistent",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GameFormer__Game_theoretic_Modeling_and_Learning_of_Transfor",
+      "to": "paper_oa_paper:sun_m2i_from_factored_marginal_trajectory_predic:988e9906f34e",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GameFormer: Game-theoretic Modeling and Learning of Transformer-based Interactive Prediction and Planning for Autonomous Driving",
+        "toText": "M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Texture_Generation_on_3D_Meshes_with_Point_UV_Diffusion",
+      "to": "paper_oa_paper:deng_gram_generative_radiance_manifolds_for_3d_a:414e37509929",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Texture Generation on 3D Meshes with Point-UV Diffusion",
+        "toText": "GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Texture_Generation_on_3D_Meshes_with_Point_UV_Diffusion",
+      "to": "paper_oa_paper:choi_perception_prioritized_training_of_diffusio:1a7588ab4092",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Texture Generation on 3D Meshes with Point-UV Diffusion",
+        "toText": "Perception Prioritized Training of Diffusion Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Hard_No_Box_Adversarial_Attack_on_Skeleton_Based_Human_Actio",
+      "to": "paper_oa_paper:11212_aaai:9657e31b6294",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient",
+        "toText": "An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Hard_No_Box_Adversarial_Attack_on_Skeleton_Based_Human_Actio",
+      "to": "paper_oa_paper:diao_basarblack_box_attack_on_skeletal_action_re:0d9303b057f0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient",
+        "toText": "BASAR:Black-Box Attack on Skeletal Action Recognition",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Hard_No_Box_Adversarial_Attack_on_Skeleton_Based_Human_Actio",
+      "to": "paper_oa_paper:wang_understanding_the_robustness_of_skeleton_ba:eb2d4f2b9f9b",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient",
+        "toText": "Understanding the Robustness of Skeleton-Based Action Recognition Under Adversarial Attack",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Hard_No_Box_Adversarial_Attack_on_Skeleton_Based_Human_Actio",
+      "to": "paper_oa_paper:20132_aaai:a9ede21321c0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Hard No-Box Adversarial Attack on Skeleton-Based Human Action Recognition with Skeleton-Motion-Informed Gradient",
+        "toText": "Adversarial Bone Length Attack on Action Recognition",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_A_Dynamic_Dual_Processing_Object_Detection_Framework_Inspire",
+      "to": "paper_oa_paper:dai_dynamic_head_unifying_object_detection_heads:905d34cccf08",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism",
+        "toText": "Dynamic Head: Unifying Object Detection Heads With Attentions",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_A_Dynamic_Dual_Processing_Object_Detection_Framework_Inspire",
+      "to": "paper_oa_paper:sun_sparse_r_cnn_end_to_end_object_detection_wit:57e46fb522a0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism",
+        "toText": "Sparse R-CNN: End-to-End Object Detection With Learnable Proposals",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_A_Dynamic_Dual_Processing_Object_Detection_Framework_Inspire",
+      "to": "paper_oa_paper:hu_a2_fpn_attention_aggregation_based_feature_py:2ba7de0cf679",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism",
+        "toText": "A2-FPN: Attention Aggregation Based Feature Pyramid Network for Instance Segmentation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_A_Dynamic_Dual_Processing_Object_Detection_Framework_Inspire",
+      "to": "paper_oa_paper:chen_you_only_look_one_level_feature_cvpr2021_cv:f0df1037fcad",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism",
+        "toText": "You Only Look One-Level Feature",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_A_Dynamic_Dual_Processing_Object_Detection_Framework_Inspire",
+      "to": "paper_oa_paper:20158_aaai:acb8bea49721",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism",
+        "toText": "Anchor DETR: Query Design for Transformer-Based Detector",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_A_Dynamic_Dual_Processing_Object_Detection_Framework_Inspire",
+      "to": "paper_oa_paper:li_dn_detr_accelerate_detr_training_by_introduci:7f5a5a0487aa",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "A Dynamic Dual-Processing Object Detection Framework Inspired by the Brain's Recognition Mechanism",
+        "toText": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Passive_Ultra_Wideband_Single_Photon_Imaging",
+      "to": "paper_oa_paper:ingle_passive_inter_photon_imaging_cvpr2021_cvf:8973691b4d6f",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Passive Ultra-Wideband Single-Photon Imaging",
+        "toText": "Passive Inter-Photon Imaging",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Passive_Ultra_Wideband_Single_Photon_Imaging",
+      "to": "paper_oa_paper:gutierrez_barragan_compressive_single_photon_3d_:53d031fdfb0a",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Passive Ultra-Wideband Single-Photon Imaging",
+        "toText": "Compressive Single-Photon 3D Cameras",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_PVT____A_Simple_End_to_End_Latency_Aware_Visual_Tracking_Fra",
+      "to": "paper_oa_paper:wang_transformer_meets_tracker_exploiting_tempor:82f624d2eeeb",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework",
+        "toText": "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_PVT____A_Simple_End_to_End_Latency_Aware_Visual_Tracking_Fra",
+      "to": "paper_oa_paper:ye_unsupervised_domain_adaptation_for_nighttime_:178c52502157",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework",
+        "toText": "Unsupervised Domain Adaptation for Nighttime Aerial Tracking",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_PVT____A_Simple_End_to_End_Latency_Aware_Visual_Tracking_Fra",
+      "to": "paper_oa_paper:cao_tctrack_temporal_contexts_for_aerial_trackin:e37507c61503",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework",
+        "toText": "TCTrack: Temporal Contexts for Aerial Tracking",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_PVT____A_Simple_End_to_End_Latency_Aware_Visual_Tracking_Fra",
+      "to": "paper_oa_paper:cui_mixformer_end_to_end_tracking_with_iterative:419b056bedb7",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework",
+        "toText": "MixFormer: End-to-End Tracking With Iterative Mixed Attention",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_E2E_LOAD__End_to_End_Long_form_Online_Action_Detection",
+      "to": "paper_oa_paper:gao_woad_weakly_supervised_online_action_detecti:cd76cb08f0e0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "E2E-LOAD: End-to-End Long-form Online Action Detection",
+        "toText": "WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_E2E_LOAD__End_to_End_Long_form_Online_Action_Detection",
+      "to": "paper_oa_paper:yang_colar_effective_and_efficient_online_action:2cc475ece785",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "E2E-LOAD: End-to-End Long-form Online Action Detection",
+        "toText": "Colar: Effective and Efficient Online Action Detection by Consulting Exemplars",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_E2E_LOAD__End_to_End_Long_form_Online_Action_Detection",
+      "to": "paper_oa_paper:chen_gatehub_gated_history_unit_with_background_:93f8c176f313",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "E2E-LOAD: End-to-End Long-form Online Action Detection",
+        "toText": "GateHUB: Gated History Unit With Background Suppression for Online Action Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_E2E_LOAD__End_to_End_Long_form_Online_Action_Detection",
+      "to": "paper_oa_paper:li_mvitv2_improved_multiscale_vision_transformer:9dd9d588c3f2",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "E2E-LOAD: End-to-End Long-form Online Action Detection",
+        "toText": "MViTv2: Improved Multiscale Vision Transformers for Classification and Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_E2E_LOAD__End_to_End_Long_form_Online_Action_Detection",
+      "to": "paper_oa_paper:wu_memvit_memory_augmented_multiscale_vision_tra:6da01a5c2167",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "E2E-LOAD: End-to-End Long-form Online Action Detection",
+        "toText": "MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_E2E_LOAD__End_to_End_Long_form_Online_Action_Detection",
+      "to": "paper_oa_paper:cheng_stochastic_backpropagation_a_memory_effici:b9172792b777",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "E2E-LOAD: End-to-End Long-form Online Action Detection",
+        "toText": "Stochastic Backpropagation: A Memory Efficient Strategy for Training Video Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:n19_1268_acl:17da3cc0edd4",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:pan_3d_object_detection_with_pointformer_cvpr202:c47f46b740e8",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "3D Object Detection With Pointformer",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:hong_vln_bert_a_recurrent_vision_and_language_be:6cb5f611e835",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "VLN BERT: A Recurrent Vision-and-Language BERT for Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:lin_scene_intuitive_agent_for_remote_embodied_vi:3a3937c13071",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "Scene-Intuitive Agent for Remote Embodied Visual Grounding",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:chen_topological_planning_with_transformers_for_:25b4b3030121",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "Topological Planning With Transformers for Vision-and-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:zhu_soon_scenario_oriented_object_navigation_wit:86016b18ddf2",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "SOON: Scenario Oriented Object Navigation With Graph-Based Exploration",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:chen_think_global_act_local_dual_scale_graph_tra:64bc3b396221",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "Think Global, Act Local: Dual-Scale Graph Transformer for Vision-and-Language Navigation\",\"Think Global",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:lin_adapt_vision_language_navigation_with_modali:13d035c34656",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "ADAPT: Vision-Language Navigation With Modality-Aligned Action Prompts",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:li_envedit_environment_editing_for_vision_and_la:2a92d1b7252b",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "EnvEdit: Environment Editing for Vision-and-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "to": "paper_oa_paper:wang_counterfactual_cycle_consistent_learning_fo:d53a60fa5d29",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "toText": "Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:wang_dreamwalker_mental_planning_for_continuous_:e8e19e078d20",
+      "to": "paper_Bird_s_Eye_View_Scene_Graph_for_Vision_Language_Navigation",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation",
+        "toText": "Bird's-Eye-View Scene Graph for Vision-Language Navigation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "to": "paper_oa_paper:zamir_restormer_efficient_transformer_for_high_r:cfca6e22ef7d",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "toText": "Restormer: Efficient Transformer for High-Resolution Image Restoration",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "to": "paper_oa_paper:ma_toward_fast_flexible_and_robust_low_light_ima:58525ddfdc8a",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "toText": "Toward Fast, Flexible, and Robust Low-Light Image Enhancement\",\"Toward Fast, Flexible",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Diff_Retinex__Rethinking_Low_light_Image_Enhancement_with_A_",
+      "to": "paper_oa_paper:wu_uretinex_net_retinex_based_deep_unfolding_net:1a0f4d8cfa44",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Diff-Retinex: Rethinking Low-light Image Enhancement with A Generative Diffusion Model",
+        "toText": "URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:shi_videoflow_exploiting_temporal_cues_for_multi:c47e46ef6aed",
+      "to": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation",
+        "toText": "Tracking Everything Everywhere All at Once",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Towards_Better_Robustness_against_Common_Corruptions_for_Uns",
+      "to": "paper_oa_paper:li_progressive_domain_expansion_network_for_sing:a18ae2e8cab5",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Towards Better Robustness against Common Corruptions for Unsupervised Domain Adaptation",
+        "toText": "Progressive Domain Expansion Network for Single Domain Generalization",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Towards_Better_Robustness_against_Common_Corruptions_for_Uns",
+      "to": "paper_oa_paper:gong_maxup_lightweight_adversarial_training_with:b8de9940de7e",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Towards Better Robustness against Common Corruptions for Unsupervised Domain Adaptation",
+        "toText": "MaxUp: Lightweight Adversarial Training With Data Augmentation Improves Neural Network Training",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:sun_loftr_detector_free_local_feature_matching_w:5ac623702a80",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "LoFTR: Detector-Free Local Feature Matching With Transformers",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:li_neural_scene_flow_fields_for_space_time_view_:3205a9679b8e",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:yang_lasr_learning_articulated_shape_reconstruct:687498f6dd61",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "LASR: Learning Articulated Shape Reconstruction From a Monocular Video",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:xian_space_time_neural_irradiance_fields_for_fre:440641621fa4",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "Space-Time Neural Irradiance Fields for Free-Viewpoint Video",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:barron_mip_nerf_360_unbounded_anti_aliased_neura:b97f8d4a7227",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:lei_cadex_learning_canonical_deformation_coordin:495420ed9984",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "CaDeX: Learning Canonical Deformation Coordinate Space for Dynamic Surface Representation via Neural Homeomorphism",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:tancik_block_nerf_scalable_large_scene_neural_vi:7b720398c4b8",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "Block-NeRF: Scalable Large Scene Neural View Synthesis",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:greff_kubric_a_scalable_dataset_generator_cvpr20:cfb8d4f0aac2",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "Kubric: A Scalable Dataset Generator",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:ye_deformable_sprites_for_unsupervised_video_dec:955aa0a80060",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "Deformable Sprites for Unsupervised Video Decomposition",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:bian_learning_pixel_trajectories_with_multiscale:131b5ce3ee3f",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "Learning Pixel Trajectories With Multiscale Contrastive Random Walks",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:li_dynibar_neural_dynamic_image_based_rendering_:0bc34cea4b3d",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "DynIBaR: Neural Dynamic Image-Based Rendering",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Tracking_Everything_Everywhere_All_at_Once",
+      "to": "paper_oa_paper:doersch_tapir_tracking_any_point_with_per_frame_:b0bf2b4c67f5",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Tracking Everything Everywhere All at Once",
+        "toText": "TAPIR: Tracking Any Point with Per-Frame Initialization and Temporal Refinement",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:wang_representative_forgery_mining_for_fake_face:28142b8a872a",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "Representative Forgery Mining for Fake Face Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:liu_spatial_phase_shallow_learning_rethinking_fa:c49b6f7737b0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:zhu_face_forgery_detection_by_3d_decomposition_c:85c9803fc566",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "Face Forgery Detection by 3D Decomposition",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:li_frequency_aware_discriminative_feature_learni:e41c7608804a",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "Frequency-Aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:sun_fenerf_face_editing_in_neural_radiance_field:43428089f67b",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "FENeRF: Face Editing in Neural Radiance Fields",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:shi_semanticstylegan_learning_compositional_gene:fbd9b9cce973",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "SemanticStyleGAN: Learning Compositional Generative Priors for Controllable Image Synthesis and Editing",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:dong_protecting_celebrities_from_deepfake_with_i:bdcede30b5ce",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "Protecting Celebrities From DeepFake With Identity Consistency Transformer",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:haliassos_leveraging_real_talking_faces_via_self:acb45926aa89",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:zeng_sketchedit_mask_free_local_image_manipulati:86eede5dbbe0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "SketchEdit: Mask-Free Local Image Manipulation With Partial Sketches",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:hsu_dual_generator_face_reenactment_cvpr2022_cvf:dfeeb1169b28",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "Dual-Generator Face Reenactment",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:dong_think_twice_before_detecting_gan_generated_:b7a9c6efa02d",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "Think Twice Before Detecting GAN-Generated Fake Images From Their Spectral Domain Imprints",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:cao_end_to_end_reconstruction_classification_lea:68fc82c3842e",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "End-to-End Reconstruction-Classification Learning for Face Forgery Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_TALL__Thumbnail_Layout_for_Deepfake_Video_Detection",
+      "to": "paper_oa_paper:fei_learning_second_order_local_anomaly_for_gene:b7af0511f9e0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "TALL: Thumbnail Layout for Deepfake Video Detection",
+        "toText": "Learning Second Order Local Anomaly for General Face Forgery Detection",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Evaluating_and_Modeling_Attribution_for_Cross_Lingual_Questi",
+      "to": "paper_oa_paper:12022_aaai:b5b75cc0b6e0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Evaluating and Modeling Attribution for Cross-Lingual Question Answering",
+        "toText": "SciTaiL: A Textual Entailment Dataset from Science Question Answering",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Evaluating_and_Modeling_Attribution_for_Cross_Lingual_Questi",
+      "to": "paper_oa_paper:n19_1131_acl:877ed56bbcde",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Evaluating and Modeling Attribution for Cross-Lingual Question Answering",
+        "toText": "PAWS: Paraphrase Adversaries from Word Scrambling",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Evaluating_and_Modeling_Attribution_for_Cross_Lingual_Questi",
+      "to": "paper_oa_paper:2021_naacl_main_41_acl:959b3faca8d3",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Evaluating and Modeling Attribution for Cross-Lingual Question Answering",
+        "toText": "mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Evaluating_and_Modeling_Attribution_for_Cross_Lingual_Questi",
+      "to": "paper_oa_paper:2021_naacl_main_46_acl:10382e783386",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Evaluating and Modeling Attribution for Cross-Lingual Question Answering",
+        "toText": "XOR QA: Cross-lingual Open-Retrieval Question Answering",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Evaluating_and_Modeling_Attribution_for_Cross_Lingual_Questi",
+      "to": "paper_oa_paper:2022_naacl_main_287_acl:ec346f1d7a47",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Evaluating and Modeling Attribution for Cross-Lingual Question Answering",
+        "toText": "TRUE: Re-evaluating Factual Consistency Evaluation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Sparse_Universal_Transformer",
+      "to": "paper_oa_paper:n19_4009_acl:4948eb8feb88",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Sparse Universal Transformer",
+        "toText": "fairseq: A Fast, Extensible Toolkit for Sequence Modeling\",\"fairseq: A Fast",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Sparse_Universal_Transformer",
+      "to": "paper_oa_paper:2023_findings_emnlp_825_acl:fc08970dd15d",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Sparse Universal Transformer",
+        "toText": "Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Establishing_Trustworthiness__Rethinking_Tasks_and_Model_Eva",
+      "to": "paper_oa_paper:p18_1198_acl:fe5a3322bd59",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Establishing Trustworthiness: Rethinking Tasks and Model Evaluation",
+        "toText": "What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Establishing_Trustworthiness__Rethinking_Tasks_and_Model_Eva",
+      "to": "paper_oa_paper:2022_naacl_main_387_acl:aefa04578e1f",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Establishing Trustworthiness: Rethinking Tasks and Model Evaluation",
+        "toText": "On the Origin of Hallucinations in Conversational Models: Is it the Datasets or the Models?",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Establishing_Trustworthiness__Rethinking_Tasks_and_Model_Eva",
+      "to": "paper_oa_paper:2022_naacl_main_321_acl:7063986808ab",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Establishing Trustworthiness: Rethinking Tasks and Model Evaluation",
+        "toText": "Informativeness and Invariance: Two Perspectives on Spurious Correlations in Natural Language",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GPTAraEval__A_Comprehensive_Evaluation_of_ChatGPT_on_Arabic_",
+      "to": "paper_oa_paper:2020_acl_main_441_acl:76c9d2fd8664",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+        "toText": "Adversarial NLI: A New Benchmark for Natural Language Understanding",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GPTAraEval__A_Comprehensive_Evaluation_of_ChatGPT_on_Arabic_",
+      "to": "paper_oa_paper:2022_acl_long_556_acl:8951e44494ae",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+        "toText": "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GPTAraEval__A_Comprehensive_Evaluation_of_ChatGPT_on_Arabic_",
+      "to": "paper_oa_paper:2021_naacl_main_41_acl:959b3faca8d3",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+        "toText": "mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GPTAraEval__A_Comprehensive_Evaluation_of_ChatGPT_on_Arabic_",
+      "to": "paper_oa_paper:mullf50y6h_openreview:61da686133e2",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+        "toText": "Is ChatGPT a Good Sentiment Analyzer?",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GPTAraEval__A_Comprehensive_Evaluation_of_ChatGPT_on_Arabic_",
+      "to": "paper_oa_paper:2023_acl_long_891_acl:60c2ebfb9540",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+        "toText": "Crosslingual Generalization through Multitask Finetuning",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GPTAraEval__A_Comprehensive_Evaluation_of_ChatGPT_on_Arabic_",
+      "to": "paper_oa_paper:2023_emnlp_main_1040_acl:e009be8ee696",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+        "toText": "JASMINE: Arabic GPT Models for Few-Shot Learning",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GPTAraEval__A_Comprehensive_Evaluation_of_ChatGPT_on_Arabic_",
+      "to": "paper_oa_paper:2023_findings_emnlp_878_acl:c4d547607f95",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+        "toText": "ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GPTAraEval__A_Comprehensive_Evaluation_of_ChatGPT_on_Arabic_",
+      "to": "paper_oa_paper:2023_findings_emnlp_826_acl:43e1b39b7398",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+        "toText": "Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_GPTAraEval__A_Comprehensive_Evaluation_of_ChatGPT_on_Arabic_",
+      "to": "paper_oa_paper:2023_emnlp_main_85_acl:94a1a7315c5e",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "GPTAraEval: A Comprehensive Evaluation of ChatGPT on Arabic NLP",
+        "toText": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Dual_Channel_Span_for_Aspect_Sentiment_Triplet_Extraction",
+      "to": "paper_oa_paper:11604_aaai:91d0dcc8c9a8",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Dual-Channel Span for Aspect Sentiment Triplet Extraction",
+        "toText": "Deeper Insights Into Graph Convolutional Networks for Semi-Supervised Learning",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Dual_Channel_Span_for_Aspect_Sentiment_Triplet_Extraction",
+      "to": "paper_oa_paper:2020_acl_main_296_acl:72a62e7de32b",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Dual-Channel Span for Aspect Sentiment Triplet Extraction",
+        "toText": "SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Dual_Channel_Span_for_Aspect_Sentiment_Triplet_Extraction",
+      "to": "paper_oa_paper:2022_naacl_main_20_acl:c9f15a1fb7c3",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Dual-Channel Span for Aspect Sentiment Triplet Extraction",
+        "toText": "A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Cultural_Concept_Adaptation_on_Multimodal_Reasoning",
+      "to": "paper_oa_paper:n19_1423_acl:e29bcec358f2",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Cultural Concept Adaptation on Multimodal Reasoning",
+        "toText": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Cultural_Concept_Adaptation_on_Multimodal_Reasoning",
+      "to": "paper_oa_paper:2022_acl_long_482_acl:28f4169165b4",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Cultural Concept Adaptation on Multimodal Reasoning",
+        "toText": "Challenges and Strategies in Cross-Cultural NLP",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Cultural_Concept_Adaptation_on_Multimodal_Reasoning",
+      "to": "paper_oa_paper:venkataramanan_alignmixup_improving_representati:4ccfe736fc51",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Cultural Concept Adaptation on Multimodal Reasoning",
+        "toText": "AlignMixup: Improving Representations by Interpolating Aligned Features",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Understanding_Compositional_Data_Augmentation_in_Typological",
+      "to": "paper_oa_paper:n19_4009_acl:4948eb8feb88",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Understanding Compositional Data Augmentation in Typologically Diverse Morphological Inflection",
+        "toText": "fairseq: A Fast, Extensible Toolkit for Sequence Modeling\",\"fairseq: A Fast",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Understanding_Compositional_Data_Augmentation_in_Typological",
+      "to": "paper_oa_paper:2023_acl_long_335_acl:096d42c89d2f",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Understanding Compositional Data Augmentation in Typologically Diverse Morphological Inflection",
+        "toText": "Morphological Inflection: A Reality Check",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Fine_grained_Conversational_Decoding_via_Isotropic_and_Proxi",
+      "to": "paper_oa_paper:p18_1082_acl:1f054ce9e16f",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Fine-grained Conversational Decoding via Isotropic and Proximal Search",
+        "toText": "Hierarchical Neural Story Generation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Fine_grained_Conversational_Decoding_via_Isotropic_and_Proxi",
+      "to": "paper_oa_paper:n16_1014_acl:806681e5d93e",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Fine-grained Conversational Decoding via Isotropic and Proximal Search",
+        "toText": "A Diversity-Promoting Objective Function for Neural Conversation Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Holistic_Inter_Annotator_Agreement_and_Corpus_Coherence_Esti",
+      "to": "paper_oa_paper:2023_acl_long_169_acl:d58928de47c2",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Holistic Inter-Annotator Agreement and Corpus Coherence Estimation in a Large-scale Multilingual Annotation Campaign",
+        "toText": "Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing, and Persuasion Techniques\",\"Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Primacy_Effect_of_ChatGPT",
+      "to": "paper_oa_paper:2022_naacl_main_224_acl:665f561a64e0",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Primacy Effect of ChatGPT",
+        "toText": "Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Primacy_Effect_of_ChatGPT",
+      "to": "paper_oa_paper:2023_acl_long_783_acl:3b721250ea58",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Primacy Effect of ChatGPT",
+        "toText": "Mitigating Label Biases for In-context Learning",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Primacy_Effect_of_ChatGPT",
+      "to": "paper_oa_paper:2023_findings_emnlp_1013_acl:9e7ce262ebcf",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Primacy Effect of ChatGPT",
+        "toText": "A Causal View of Entity Bias in (Large) Language Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Primacy_Effect_of_ChatGPT",
+      "to": "paper_oa_paper:2023_findings_emnlp_743_acl:bac004e98048",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Primacy Effect of ChatGPT",
+        "toText": "Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Primacy_Effect_of_ChatGPT",
+      "to": "paper_oa_paper:2023_findings_emnlp_710_acl:f1482497db17",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Primacy Effect of ChatGPT",
+        "toText": "Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!\",\"Large Language Model Is Not a Good Few-shot Information Extractor",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Primacy_Effect_of_ChatGPT",
+      "to": "paper_oa_paper:2023_emnlp_main_214_acl:daef9936ef03",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Primacy Effect of ChatGPT",
+        "toText": "GPT-RE: In-context Learning for Relation Extraction using Large Language Models",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:2023_emnlp_main_941_acl:9bab1f95c1a9",
+      "to": "paper_Decoding_the_Silent_Majority__Inducing_Belief_Augmented_Soci",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "NORMSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly",
+        "toText": "Decoding the Silent Majority: Inducing Belief Augmented Social Graph with Large Language Model for Response Forecasting",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_oa_paper:2023_findings_emnlp_799_acl:4a57324ebfe4",
+      "to": "paper_Decoding_the_Silent_Majority__Inducing_Belief_Augmented_Soci",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Defining a New NLP Playground",
+        "toText": "Decoding the Silent Majority: Inducing Belief Augmented Social Graph with Large Language Model for Response Forecasting",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Analyzing_Intentional_Behavior_in_Autonomous_Agents_under_Un",
+      "to": "paper_oa_paper:11557_aaai:7ce1492740d6",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Analyzing Intentional Behavior in Autonomous Agents under Uncertainty",
+        "toText": "Towards Formal Definitions of Blameworthiness, Intention, and Moral Responsibility\",\"Towards Formal Definitions of Blameworthiness, Intention",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Choose_your_Data_Wisely__A_Framework_for_Semantic_Counterfac",
+      "to": "paper_oa_paper:sharma20d_interspeech_2020_isca:7157c16c1113",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Choose your Data Wisely: A Framework for Semantic Counterfactuals",
+        "toText": "Coswara — A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis\",\"Coswara — A Database of Breathing, Cough",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Fairness_via_Group_Contribution_Matching",
+      "to": "paper_oa_paper:jung_learning_fair_classifiers_with_partially_an:74caedd40ba6",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Fairness via Group Contribution Matching",
+        "toText": "Learning Fair Classifiers With Partially Annotated Group Labels",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    },
+    {
+      "from": "paper_Advancing_Post_Hoc_Case_Based_Explanation_with_Feature_Highl",
+      "to": "paper_oa_paper:donnelly_deformable_protopnet_an_interpretable_i:f6638b7d6442",
+      "text": "CITES",
+      "color": "#3b82f6",
+      "data": {
+        "type": "CITES",
+        "fromText": "Advancing Post-Hoc Case-Based Explanation with Feature Highlighting",
+        "toText": "Deformable ProtoPNet: An Interpretable Image Classifier Using Deformable Prototypes",
+        "description": "CITES",
+        "source": "openalex",
+        "isDemo": false
+      }
+    }
+  ],
+  "newNodes": [
+    {
+      "id": "paper_oa_paper:kapon_mas_multi_view_ancestral_sampling_for_3d_m:f26fa6d9eb3f",
+      "text": "MAS: Multi-view Ancestral Sampling for 3D Motion Generation Using 2D Diffusion",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402716158",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhang_degrees_of_freedom_matter_inferring_dynami:0d93f3e9d5ab",
+      "text": "Degrees of Freedom Matter: Inferring Dynamics from Point Trajectories",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753777",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:peng_a_dual_augmentor_framework_for_domain_gener:611e9a72a787",
+      "text": "A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753325",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zeng_paint3d_paint_anything_3d_with_lighting_les:1c5d191cf9d9",
+      "text": "Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753917",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:liu_diff_plugin_revitalizing_details_for_diffusi:fb40faaf0aa1",
+      "text": "Diff-Plugin: Revitalizing Details for Diffusion-based Low-level Tasks",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727539",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:liu_texoct_generating_textures_of_3d_models_with:2efa01e51a6c",
+      "text": "TexOct: Generating Textures of 3D Models with Octree-based Diffusion",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402754187",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:tang_make_it_vivid_dressing_your_animatable_bipe:e3442d63d125",
+      "text": "Make-It-Vivid: Dressing Your Animatable Biped Cartoon Characters from Text",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727374",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_diffperformer_iterative_learning_of_consist:5132879a9b70",
+      "text": "DiffPerformer: Iterative Learning of Consistent Latent Guidance for Diffusion-based Human Video Generation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727723",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_sat2scene_3d_urban_scene_generation_from_sate:6526fb5d6d04",
+      "text": "Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753984",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:mitchel_single_mesh_diffusion_models_with_field_:9f88950261aa",
+      "text": "Single Mesh Diffusion Models with Field Latents for Texture Generation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727171",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:seo_generative_unlearning_for_any_identity_cvpr2:a3ce184ea4bb",
+      "text": "Generative Unlearning for Any Identity",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402716097",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_vision_and_language_navigation_via_causal_l:92330bab0190",
+      "text": "Vision-and-Language Navigation via Causal Learning",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727020",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:yin_is_fusion_instance_scene_collaborative_fusio:77840be2d8ac",
+      "text": "IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402703030",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_light_the_night_a_multi_condition_diffusion_f:635a2a91be5b",
+      "text": "Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402754076",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_diffloc_diffusion_model_for_outdoor_lidar_loc:629d13d2c75a",
+      "text": "DiffLoc: Diffusion Model for Outdoor LiDAR Localization",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402716017",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:liu_volumetric_environment_representation_for_vi:42dc02ea9542",
+      "text": "Volumetric Environment Representation for Vision-Language Navigation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402754062",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhang_revisiting_the_domain_shift_and_sample_unc:e91459d03f26",
+      "text": "Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753671",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:fan_evidential_active_recognition_intelligent_an:e5c0dfb36f3f",
+      "text": "Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402715959",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:xu_multi_attribute_interactions_matter_for_3d_vi:c077d731164b",
+      "text": "Multi-Attribute Interactions Matter for 3D Visual Grounding",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727708",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_matching_anything_by_segmenting_anything_cvpr:fd76cfe77e57",
+      "text": "Matching Anything by Segmenting Anything",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727796",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:le_moing_dense_optical_tracking_connecting_the_d:707fd7aa57f2",
+      "text": "Dense Optical Tracking: Connecting the Dots",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753964",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:qin_towards_generalizable_multi_object_tracking_:6728e433ae08",
+      "text": "Towards Generalizable Multi-Object Tracking",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727808",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:cho_flowtrack_revisiting_optical_flow_for_long_r:a00484439859",
+      "text": "FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402704504",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zheng_nettrack_tracking_highly_dynamic_objects_w:cf8cc206a58c",
+      "text": "NetTrack: Tracking Highly Dynamic Objects with a Net",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402716401",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:chen_leap_vo_long_term_effective_any_point_track:aa6e241c5d26",
+      "text": "LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402703124",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:xiao_spatialtracker_tracking_any_2d_pixels_in_3d:63a692529372",
+      "text": "SpatialTracker: Tracking Any 2D Pixels in 3D Space",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402728154",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:sun_3dgstream_on_the_fly_training_of_3d_gaussian:f33f4487f25b",
+      "text": "3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402704624",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:sun_tuttenet_injective_3d_deformations_by_compos:aa1ca1fcae62",
+      "text": "TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753754",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:hedlin_unsupervised_keypoints_from_pretrained_di:bace46b6ea8a",
+      "text": "Unsupervised Keypoints from Pretrained Diffusion Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753820",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:pan_diffsci_zero_shot_snapshot_compressive_imagi:69e4b124008b",
+      "text": "DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753819",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:sundar_generalized_event_cameras_cvpr2024_cvf:ad040adc463c",
+      "text": "Generalized Event Cameras",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727042",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:chan_resolution_limit_of_single_photon_lidar_cvp:36d40b30ec96",
+      "text": "Resolution Limit of Single-Photon LiDAR",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753536",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:lv_fourier_priors_guided_diffusion_for_zero_shot:0b753139808b",
+      "text": "Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402754029",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhang_diffusion_based_blind_text_image_super_res:519f907cc8a5",
+      "text": "Diffusion-based Blind Text Image Super-Resolution",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753813",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_zero_reference_low_light_enhancement_via_ph:252900e5208e",
+      "text": "Zero-Reference Low-Light Enhancement via Physical Quadruple Priors",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402727765",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:yang_a_dynamic_kernel_prior_model_for_unsupervis:41e2302c58f5",
+      "text": "A Dynamic Kernel Prior Model for Unsupervised Blind Image Super-Resolution",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402660116",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhang_mrfs_mutually_reinforcing_image_fusion_and:ccbe4bccfaeb",
+      "text": "MRFS: Mutually Reinforcing Image Fusion and Segmentation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402753319",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:chen_clip_driven_open_vocabulary_3d_scene_graph_:d880f914ba18",
+      "text": "CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4402704531",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:tang_discrete_to_continuous_generating_smooth_tr:45213c56f427",
+      "text": "Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observations",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4413146558",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_tamt_temporal_aware_model_tuning_for_cross_:f7dcacce8ec0",
+      "text": "TAMT: Temporal-Aware Model Tuning for Cross-Domain Few-Shot Action Recognition",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4413156965",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wu_4d_fly_fast_4d_reconstruction_from_a_single_m:c97e798adcc3",
+      "text": "4D-Fly: Fast 4D Reconstruction from a Single Monocular Video",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4413156833",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhang_carplanner_consistent_auto_regressive_traj:544fe5d62568",
+      "text": "CarPlanner: Consistent Auto-regressive Trajectory Planning for Large-Scale Reinforcement Learning in Autonomous Driving",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4413156825",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:dai_noisectrl_a_sampling_algorithm_agnostic_cond:d2588ae81c43",
+      "text": "NoiseCtrl: A Sampling-Algorithm-Agnostic Conditional Generation Method for Diffusion Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4413158248",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:cui_forensics_adapter_adapting_clip_for_generali:48d8bc88bcb4",
+      "text": "Forensics Adapter: Adapting CLIP for Generalizable Face Forgery Detection",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4413156301",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:han_towards_more_general_video_based_deepfake_de:dae0e7a53e8e",
+      "text": "Towards More General Video-based Deepfake Detection through Facial Component Guided Adaptation for Foundation Model",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4413157058",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:chen_diffvsgg_diffusion_driven_online_video_scen:1a85eb0e8de1",
+      "text": "DiffVsgg: Diffusion-Driven Online Video Scene Graph Generation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4413156276",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:lugmayr_repaint_inpainting_using_denoising_diffu:082324c70c4b",
+      "text": "RePaint: Inpainting Using Denoising Diffusion Probabilistic Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312497550",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_deep_hierarchical_semantic_segmentation_cvpr2:18d908d92f4d",
+      "text": "Deep Hierarchical Semantic Segmentation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312689172",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:gu_multi_scale_high_resolution_vision_transforme:bafbe783eff0",
+      "text": "Multi-Scale High-Resolution Vision Transformer for Semantic Segmentation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312726009",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhang_semantic_segmentation_by_early_region_prox:e519a686ebec",
+      "text": "Semantic Segmentation by Early Region Proxy",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312781440",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:guo_long_tailed_multi_label_visual_recognition_b:5bfa8a8a1352",
+      "text": "Long-Tailed Multi-Label Visual Recognition by Collaborative Training on Uniform and Re-Balanced Samplings",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3179096061",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:ben_baruch_multi_label_classification_with_parti:7a831f590ad9",
+      "text": "Multi-Label Classification With Partial Annotations Using Class-Aware Selective Loss",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3207012649",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:20243_aaai:9acb08f26d91",
+      "text": "MAGIC: Multimodal relAtional Graph adversarIal inferenCe for Diverse and Unpaired Text-Based Image Captioning",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4200635486",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhang_boostmis_boosting_medical_image_semi_super:ceb90563a8d3",
+      "text": "BoostMIS: Boosting Medical Image Semi-Supervised Learning With Adaptive Pseudo Labeling and Informative Active Annotation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4313166273",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_gradient_regulated_meta_prompt_learning_for_g:d346429c661f",
+      "text": "Gradient-Regulated Meta-Prompt Learning for Generalizable Vision-Language Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4390873802",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_vim_out_of_distribution_with_virtual_logit_:11b3701587f3",
+      "text": "ViM: Out-of-Distribution With Virtual-Logit Matching",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312776478",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhou_hivt_hierarchical_vector_transformer_for_mu:f6eee56cfe22",
+      "text": "HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312731878",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:chen_scept_scene_consistent_policy_based_traject:e3501ab90b81",
+      "text": "ScePT: Scene-Consistent, Policy-Based Trajectory Predictions for Planning\",\"ScePT: Scene-consistent",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312809144",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:sun_m2i_from_factored_marginal_trajectory_predic:988e9906f34e",
+      "text": "M2I: From Factored Marginal Trajectory Prediction to Interactive Prediction",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4313189526",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:deng_gram_generative_radiance_manifolds_for_3d_a:414e37509929",
+      "text": "GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312567873",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:choi_perception_prioritized_training_of_diffusio:1a7588ab4092",
+      "text": "Perception Prioritized Training of Diffusion Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4313142698",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:11212_aaai:9657e31b6294",
+      "text": "An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2950568498",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:diao_basarblack_box_attack_on_skeletal_action_re:0d9303b057f0",
+      "text": "BASAR:Black-Box Attack on Skeletal Action Recognition",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3178066030",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_understanding_the_robustness_of_skeleton_ba:eb2d4f2b9f9b",
+      "text": "Understanding the Robustness of Skeleton-Based Action Recognition Under Adversarial Attack",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3183399135",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:20132_aaai:a9ede21321c0",
+      "text": "Adversarial Bone Length Attack on Action Recognition",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3201247567",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:dai_dynamic_head_unifying_object_detection_heads:905d34cccf08",
+      "text": "Dynamic Head: Unifying Object Detection Heads With Attentions",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3171660447",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:sun_sparse_r_cnn_end_to_end_object_detection_wit:57e46fb522a0",
+      "text": "Sparse R-CNN: End-to-End Object Detection With Learnable Proposals",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3172752666",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:hu_a2_fpn_attention_aggregation_based_feature_py:2ba7de0cf679",
+      "text": "A2-FPN: Attention Aggregation Based Feature Pyramid Network for Instance Segmentation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3176839087",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:chen_you_only_look_one_level_feature_cvpr2021_cv:f0df1037fcad",
+      "text": "You Only Look One-Level Feature",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3179888767",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:20158_aaai:acb8bea49721",
+      "text": "Anchor DETR: Query Design for Transformer-Based Detector",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3199093552",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_dn_detr_accelerate_detr_training_by_introduci:7f5a5a0487aa",
+      "text": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312312588",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:ingle_passive_inter_photon_imaging_cvpr2021_cvf:8973691b4d6f",
+      "text": "Passive Inter-Photon Imaging",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3149874220",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:gutierrez_barragan_compressive_single_photon_3d_:53d031fdfb0a",
+      "text": "Compressive Single-Photon 3D Cameras",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312401072",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_transformer_meets_tracker_exploiting_tempor:82f624d2eeeb",
+      "text": "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3167536469",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:ye_unsupervised_domain_adaptation_for_nighttime_:178c52502157",
+      "text": "Unsupervised Domain Adaptation for Nighttime Aerial Tracking",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312287126",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:cao_tctrack_temporal_contexts_for_aerial_trackin:e37507c61503",
+      "text": "TCTrack: Temporal Contexts for Aerial Tracking",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312735552",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:cui_mixformer_end_to_end_tracking_with_iterative:419b056bedb7",
+      "text": "MixFormer: End-to-End Tracking With Iterative Mixed Attention",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312805142",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:gao_woad_weakly_supervised_online_action_detecti:cd76cb08f0e0",
+      "text": "WOAD: Weakly Supervised Online Action Detection in Untrimmed Videos",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3174114091",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:yang_colar_effective_and_efficient_online_action:2cc475ece785",
+      "text": "Colar: Effective and Efficient Online Action Detection by Consulting Exemplars",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312528573",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:chen_gatehub_gated_history_unit_with_background_:93f8c176f313",
+      "text": "GateHUB: Gated History Unit With Background Suppression for Online Action Detection",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312690503",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_mvitv2_improved_multiscale_vision_transformer:9dd9d588c3f2",
+      "text": "MViTv2: Improved Multiscale Vision Transformers for Classification and Detection",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312769131",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wu_memvit_memory_augmented_multiscale_vision_tra:6da01a5c2167",
+      "text": "MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312772544",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:cheng_stochastic_backpropagation_a_memory_effici:b9172792b777",
+      "text": "Stochastic Backpropagation: A Memory Efficient Strategy for Training Video Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312931690",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:n19_1268_acl:17da3cc0edd4",
+      "text": "Learning to Navigate Unseen Environments: Back Translation with Environmental Dropout",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2926977875",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:pan_3d_object_detection_with_pointformer_cvpr202:c47f46b740e8",
+      "text": "3D Object Detection With Pointformer",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3166470370",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:hong_vln_bert_a_recurrent_vision_and_language_be:6cb5f611e835",
+      "text": "VLN BERT: A Recurrent Vision-and-Language BERT for Navigation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3172675210",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:lin_scene_intuitive_agent_for_remote_embodied_vi:3a3937c13071",
+      "text": "Scene-Intuitive Agent for Remote Embodied Visual Grounding",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3176495323",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:chen_topological_planning_with_transformers_for_:25b4b3030121",
+      "text": "Topological Planning With Transformers for Vision-and-Language Navigation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3176974620",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhu_soon_scenario_oriented_object_navigation_wit:86016b18ddf2",
+      "text": "SOON: Scenario Oriented Object Navigation With Graph-Based Exploration",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3192009892",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:chen_think_global_act_local_dual_scale_graph_tra:64bc3b396221",
+      "text": "Think Global, Act Local: Dual-Scale Graph Transformer for Vision-and-Language Navigation\",\"Think Global",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4226052928",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:lin_adapt_vision_language_navigation_with_modali:13d035c34656",
+      "text": "ADAPT: Vision-Language Navigation With Modality-Aligned Action Prompts",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312238277",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_envedit_environment_editing_for_vision_and_la:2a92d1b7252b",
+      "text": "EnvEdit: Environment Editing for Vision-and-Language Navigation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312434279",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_counterfactual_cycle_consistent_learning_fo:d53a60fa5d29",
+      "text": "Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312581490",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_dreamwalker_mental_planning_for_continuous_:e8e19e078d20",
+      "text": "DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4390871940",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zamir_restormer_efficient_transformer_for_high_r:cfca6e22ef7d",
+      "text": "Restormer: Efficient Transformer for High-Resolution Image Restoration",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4225672218",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:ma_toward_fast_flexible_and_robust_low_light_ima:58525ddfdc8a",
+      "text": "Toward Fast, Flexible, and Robust Low-Light Image Enhancement\",\"Toward Fast, Flexible",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312249431",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wu_uretinex_net_retinex_based_deep_unfolding_net:1a0f4d8cfa44",
+      "text": "URetinex-Net: Retinex-Based Deep Unfolding Network for Low-Light Image Enhancement",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312725970",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:shi_videoflow_exploiting_temporal_cues_for_multi:c47e46ef6aed",
+      "text": "VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4390871809",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_progressive_domain_expansion_network_for_sing:a18ae2e8cab5",
+      "text": "Progressive Domain Expansion Network for Single Domain Generalization",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3175956495",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:gong_maxup_lightweight_adversarial_training_with:b8de9940de7e",
+      "text": "MaxUp: Lightweight Adversarial Training With Data Augmentation Improves Neural Network Training",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3175985367",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:sun_loftr_detector_free_local_feature_matching_w:5ac623702a80",
+      "text": "LoFTR: Detector-Free Local Feature Matching With Transformers",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3166285241",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_neural_scene_flow_fields_for_space_time_view_:3205a9679b8e",
+      "text": "Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3174752334",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:yang_lasr_learning_articulated_shape_reconstruct:687498f6dd61",
+      "text": "LASR: Learning Articulated Shape Reconstruction From a Monocular Video",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3175439532",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:xian_space_time_neural_irradiance_fields_for_fre:440641621fa4",
+      "text": "Space-Time Neural Irradiance Fields for Free-Viewpoint Video",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3184952021",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:barron_mip_nerf_360_unbounded_anti_aliased_neura:b97f8d4a7227",
+      "text": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3215769467",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:lei_cadex_learning_canonical_deformation_coordin:495420ed9984",
+      "text": "CaDeX: Learning Canonical Deformation Coordinate Space for Dynamic Surface Representation via Neural Homeomorphism",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312259096",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:tancik_block_nerf_scalable_large_scene_neural_vi:7b720398c4b8",
+      "text": "Block-NeRF: Scalable Large Scene Neural View Synthesis",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312280420",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:greff_kubric_a_scalable_dataset_generator_cvpr20:cfb8d4f0aac2",
+      "text": "Kubric: A Scalable Dataset Generator",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312339971",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:ye_deformable_sprites_for_unsupervised_video_dec:955aa0a80060",
+      "text": "Deformable Sprites for Unsupervised Video Decomposition",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312593919",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:bian_learning_pixel_trajectories_with_multiscale:131b5ce3ee3f",
+      "text": "Learning Pixel Trajectories With Multiscale Contrastive Random Walks",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312699666",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_dynibar_neural_dynamic_image_based_rendering_:0bc34cea4b3d",
+      "text": "DynIBaR: Neural Dynamic Image-Based Rendering",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4386065885",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:doersch_tapir_tracking_any_point_with_per_frame_:b0bf2b4c67f5",
+      "text": "TAPIR: Tracking Any Point with Per-Frame Initialization and Temporal Refinement",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4390871749",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:wang_representative_forgery_mining_for_fake_face:28142b8a872a",
+      "text": "Representative Forgery Mining for Fake Face Detection",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3174814557",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:liu_spatial_phase_shallow_learning_rethinking_fa:c49b6f7737b0",
+      "text": "Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3176241004",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zhu_face_forgery_detection_by_3d_decomposition_c:85c9803fc566",
+      "text": "Face Forgery Detection by 3D Decomposition",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3183392865",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:li_frequency_aware_discriminative_feature_learni:e41c7608804a",
+      "text": "Frequency-Aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3183999072",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:sun_fenerf_face_editing_in_neural_radiance_field:43428089f67b",
+      "text": "FENeRF: Face Editing in Neural Radiance Fields",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3215121054",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:shi_semanticstylegan_learning_compositional_gene:fbd9b9cce973",
+      "text": "SemanticStyleGAN: Learning Compositional Generative Priors for Controllable Image Synthesis and Editing",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4200630668",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:dong_protecting_celebrities_from_deepfake_with_i:bdcede30b5ce",
+      "text": "Protecting Celebrities From DeepFake With Identity Consistency Transformer",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4225966148",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:haliassos_leveraging_real_talking_faces_via_self:acb45926aa89",
+      "text": "Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312472072",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:zeng_sketchedit_mask_free_local_image_manipulati:86eede5dbbe0",
+      "text": "SketchEdit: Mask-Free Local Image Manipulation With Partial Sketches",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312730263",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:hsu_dual_generator_face_reenactment_cvpr2022_cvf:dfeeb1169b28",
+      "text": "Dual-Generator Face Reenactment",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4312992915",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:dong_think_twice_before_detecting_gan_generated_:b7a9c6efa02d",
+      "text": "Think Twice Before Detecting GAN-Generated Fake Images From Their Spectral Domain Imprints",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4313042219",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:cao_end_to_end_reconstruction_classification_lea:68fc82c3842e",
+      "text": "End-to-End Reconstruction-Classification Learning for Face Forgery Detection",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4313127140",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:fei_learning_second_order_local_anomaly_for_gene:b7af0511f9e0",
+      "text": "Learning Second Order Local Anomaly for General Face Forgery Detection",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4313177092",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:12022_aaai:b5b75cc0b6e0",
+      "text": "SciTaiL: A Textual Entailment Dataset from Science Question Answering",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2788496822",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:n19_1131_acl:877ed56bbcde",
+      "text": "PAWS: Paraphrase Adversaries from Word Scrambling",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2932893307",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2021_naacl_main_41_acl:959b3faca8d3",
+      "text": "mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3169483174",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2021_naacl_main_46_acl:10382e783386",
+      "text": "XOR QA: Cross-lingual Open-Retrieval Question Answering",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3169937871",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2022_naacl_main_287_acl:ec346f1d7a47",
+      "text": "TRUE: Re-evaluating Factual Consistency Evaluation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4285240908",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:n19_4009_acl:4948eb8feb88",
+      "text": "fairseq: A Fast, Extensible Toolkit for Sequence Modeling\",\"fairseq: A Fast",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2933138175",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_findings_emnlp_825_acl:fc08970dd15d",
+      "text": "Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389518729",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:p18_1198_acl:fe5a3322bd59",
+      "text": "What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2964204621",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2022_naacl_main_387_acl:aefa04578e1f",
+      "text": "On the Origin of Hallucinations in Conversational Models: Is it the Datasets or the Models?",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4287854593",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2022_naacl_main_321_acl:7063986808ab",
+      "text": "Informativeness and Invariance: Two Perspectives on Spurious Correlations in Natural Language",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4287854873",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2020_acl_main_441_acl:76c9d2fd8664",
+      "text": "Adversarial NLI: A New Benchmark for Natural Language Understanding",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3034850762",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2022_acl_long_556_acl:8951e44494ae",
+      "text": "Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3156470785",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:mullf50y6h_openreview:61da686133e2",
+      "text": "Is ChatGPT a Good Sentiment Analyzer?",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4364385323",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_acl_long_891_acl:60c2ebfb9540",
+      "text": "Crosslingual Generalization through Multitask Finetuning",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4385571124",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_emnlp_main_1040_acl:e009be8ee696",
+      "text": "JASMINE: Arabic GPT Models for Few-Shot Learning",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389519614",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_findings_emnlp_878_acl:c4d547607f95",
+      "text": "ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389519817",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_findings_emnlp_826_acl:43e1b39b7398",
+      "text": "Not All Languages Are Created Equal in LLMs: Improving Multilingual Capability by Cross-Lingual-Thought Prompting",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389520538",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_emnlp_main_85_acl:94a1a7315c5e",
+      "text": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389523957",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:11604_aaai:91d0dcc8c9a8",
+      "text": "Deeper Insights Into Graph Convolutional Networks for Semi-Supervised Learning",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2964051675",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2020_acl_main_296_acl:72a62e7de32b",
+      "text": "SpanMlt: A Span-based Multi-Task Learning Framework for Pair-wise Aspect and Opinion Terms Extraction",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3034884160",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2022_naacl_main_20_acl:c9f15a1fb7c3",
+      "text": "A Robustly Optimized BMRC for Aspect Sentiment Triplet Extraction",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4287854530",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:n19_1423_acl:e29bcec358f2",
+      "text": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2963341956",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2022_acl_long_482_acl:28f4169165b4",
+      "text": "Challenges and Strategies in Cross-Cultural NLP",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4285155368",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:venkataramanan_alignmixup_improving_representati:4ccfe736fc51",
+      "text": "AlignMixup: Improving Representations by Interpolating Aligned Features",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4292091702",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_acl_long_335_acl:096d42c89d2f",
+      "text": "Morphological Inflection: A Reality Check",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4385569699",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:p18_1082_acl:1f054ce9e16f",
+      "text": "Hierarchical Neural Story Generation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2963096510",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:n16_1014_acl:806681e5d93e",
+      "text": "A Diversity-Promoting Objective Function for Neural Conversation Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2963206148",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_acl_long_169_acl:d58928de47c2",
+      "text": "Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing, and Persuasion Techniques\",\"Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4385571221",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2022_naacl_main_224_acl:665f561a64e0",
+      "text": "Should We Rely on Entity Mentions for Relation Extraction? Debiasing Relation Extraction with Counterfactual Analysis",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4280518705",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_acl_long_783_acl:3b721250ea58",
+      "text": "Mitigating Label Biases for In-context Learning",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4385570446",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_findings_emnlp_1013_acl:9e7ce262ebcf",
+      "text": "A Causal View of Entity Bias in (Large) Language Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389518789",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_findings_emnlp_743_acl:bac004e98048",
+      "text": "Is ChatGPT a Good Causal Reasoner? A Comprehensive Evaluation",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389520249",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_findings_emnlp_710_acl:f1482497db17",
+      "text": "Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!\",\"Large Language Model Is Not a Good Few-shot Information Extractor",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389520264",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_emnlp_main_214_acl:daef9936ef03",
+      "text": "GPT-RE: In-context Learning for Relation Extraction using Large Language Models",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389523710",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_emnlp_main_941_acl:9bab1f95c1a9",
+      "text": "NORMSAGE: Multi-Lingual Multi-Cultural Norm Discovery from Conversations On-the-Fly",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389524456",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:2023_findings_emnlp_799_acl:4a57324ebfe4",
+      "text": "Defining a New NLP Playground",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W4389518724",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:11557_aaai:7ce1492740d6",
+      "text": "Towards Formal Definitions of Blameworthiness, Intention, and Moral Responsibility\",\"Towards Formal Definitions of Blameworthiness, Intention",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W2807375571",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:sharma20d_interspeech_2020_isca:7157c16c1113",
+      "text": "Coswara — A Database of Breathing, Cough, and Voice Sounds for COVID-19 Diagnosis\",\"Coswara — A Database of Breathing, Cough",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3028563376",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:jung_learning_fair_classifiers_with_partially_an:74caedd40ba6",
+      "text": "Learning Fair Classifiers With Partially Annotated Group Labels",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3217183037",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    },
+    {
+      "id": "paper_oa_paper:donnelly_deformable_protopnet_an_interpretable_i:f6638b7d6442",
+      "text": "Deformable ProtoPNet: An Interpretable Image Classifier Using Deformable Prototypes",
+      "color": "#3b82f6",
+      "borderColor": "#93c5fd",
+      "data": {
+        "type": "Paper",
+        "labels": [
+          "Paper"
+        ],
+        "doi": "https://openalex.org/W3215928733",
+        "source": "openalex",
+        "isNewNode": true
+      }
+    }
+  ]
+}
